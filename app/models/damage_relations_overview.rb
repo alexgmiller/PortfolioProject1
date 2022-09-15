@@ -1,0 +1,2 @@
+class DamageRelationsOverview < ApplicationRecord
+end
